@@ -9,7 +9,6 @@ Languages:
 Learning: 
   - how cryptocurrencies work
   - basic networking, ssh, etc
-  - C++ 
-  - C# (AKA Java 2)
+  - dart/flutter
   
   
